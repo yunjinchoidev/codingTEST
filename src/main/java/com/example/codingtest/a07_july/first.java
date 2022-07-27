@@ -1,4 +1,4 @@
-package com.example.codingtest.july;
+package com.example.codingtest.a07_july;
 
 public class first {
     public static void main(String[] args) {
