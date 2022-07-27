@@ -18,6 +18,7 @@ public class P01_FindString {
         Character input2 = in.next().charAt(0);
         input2 = Character.toUpperCase(input2);
         Integer result = 0;
+
         for(int i=0; i<input1.length(); i++ ){
             Character one = input1.charAt(i);
             if(input2.equals(one)){
